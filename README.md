@@ -22,3 +22,9 @@ Dựa vào khung thời gian last change index => thấy được có file min.p
 
 #### 4. Shell của ông con để lại
 <img src="hacker.PNG">
+
+#### 5. Trang tra location cuả ô hacker (ISP là nhà cung cấp dịch vụ mạng)
+https://www.ip2location.com/demo/103.139.102.90
+
+#### 6. Trang check ip của mình
+https://api.myip.com/
