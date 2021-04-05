@@ -12,9 +12,13 @@ hacker sửa file index.php
 ### Đưa ra kết luận đó vì:
 #### 1.Dựa vào last change của file index.php => quét log trong thời gian đó
 log access của apache tại 
-/var/log/apache2 (Sau sẽ làm web hỗ trợ tìm kiếm log)
+/var/log/apache2 (Sau sẽ làm web hỗ trợ tìm kiếm log) (hoặc sẽ dùng python, auto gen ra 1 file excel, trên đó có các tool tìm kiếm, filter các kiểu)
 Dựa vào khung thời gian last change index => thấy được có file min.php được truy cập lúc đó => file min chính là file tạo ra file index
 
 #### 2. Lại mở xem file min được tạo ra lúc nào => quét ra thì nó dùng file manager plugin
 
 #### 3. Quét ra thấy ô con login wp-admin
+
+
+#### 4. Shell của ông con để lại
+<img src="hacker.PNG">
